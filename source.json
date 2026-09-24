@@ -1,0 +1,12 @@
+{
+  "repository": "chestnutzoe/chestnut-skills",
+  "commit": "5e5b77cf63eb3ce35382492e07fe038eb48b8ef0",
+  "path": "skills/chestnut-style-analyzer",
+  "skill": "chestnut-style-analyzer",
+  "files": [
+    "SKILL.md",
+    "agents/openai.yaml",
+    "references/wechat-api.md",
+    "scripts/fetch_wechat_articles.py"
+  ]
+}
